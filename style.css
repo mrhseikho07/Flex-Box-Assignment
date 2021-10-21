@@ -4,5 +4,46 @@
     justify-content: center;
     height: 100px;
     align-items: center;
-    border: 2px solid white;
+    border: 5px solid white;
+}
+.contentdiv{
+    height: 300px;
+    align-items: center;
+    display: flex;
+}
+.Lstyle{
+    background-color: rgb(235, 229, 229);
+    height: 300px;
+    width: 15%;
+    border: 5px solid white;
+}
+.Lstyle , .lcontent{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Mstyle{
+     background-color: rgb(235, 229, 229);
+    height: 300px;
+    width: 70%;
+    border: 5px solid white;
+}
+.Mstyle , .mcontent{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Rstyle{
+    background-color: rgb(235, 229, 229);
+    height: 300px;
+    width: 15%;
+    border: 5px solid white;
+}
+.Rstyle , .rcontent{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
