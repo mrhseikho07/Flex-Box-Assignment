@@ -1,0 +1,8 @@
+.headerstyle{
+    background-color: rgb(235, 229, 229);
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    border: 2px solid white;
+}
